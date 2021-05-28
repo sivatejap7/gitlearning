@@ -5,4 +5,6 @@ learn 1.linux
       4.kubernetes
       5.terraform
       7.shell script 
+      8.WE should plane
 it will improve you are skills also
+
