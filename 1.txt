@@ -1,0 +1,7 @@
+hello sivateja
+learn 1.linux 
+      2.git
+      3.Docker
+      4.kubernetes
+      5.terraform
+      7.shell script 
